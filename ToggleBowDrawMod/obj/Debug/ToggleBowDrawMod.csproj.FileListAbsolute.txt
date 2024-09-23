@@ -1,0 +1,16 @@
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\obj\Debug\ToggleBowDrawMod.csproj.AssemblyReference.cache
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\obj\Debug\ToggleBowDrawMod.csproj.CoreCompileInputs.cache
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\ToggleBowDrawMod.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\ToggleBowDrawMod.pdb
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\0Harmony.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\assembly_utils.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\assembly_valheim.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\BepInEx.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\BepInEx.Harmony.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\Unity.InputSystem.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\UnityEngine.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\bin\Debug\assembly_guiutils.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\obj\Debug\ToggleBo.6A3F64F7.Up2Date
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\obj\Debug\ToggleBowDrawMod.dll
+C:\Users\Denizhan\Source\Repos\denizhanoter\ValheimMods\ToggleBowDrawMod\obj\Debug\ToggleBowDrawMod.pdb
