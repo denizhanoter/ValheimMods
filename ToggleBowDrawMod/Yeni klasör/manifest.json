@@ -1,0 +1,9 @@
+{
+    "name": "ToggleBowDrawMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/denizhanoter/ValheimMods/tree/main/ToggleBowDrawMod",
+    "description": "The Toggle Bow Draw Mod for Valheim allows players to toggle the bow draw action with a single key press.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}

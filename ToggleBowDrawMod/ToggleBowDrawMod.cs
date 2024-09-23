@@ -36,7 +36,10 @@ namespace ToggleBowDrawMod
             {
                 return;
             }
-
+            if (Console.IsVisible() || Menu.IsVisible() || Hud.IsPieceSelectionVisible() || Chat.instance?.IsChatDialogWindowVisible() == true || InventoryGui.IsVisible() || Player.m_localPlayer?.IsDead() == true)
+            {
+                return;
+            }
             // ZInput'in başlatıldığından emin olun
             if (ZInput.instance == null)
                 return;
@@ -58,11 +61,9 @@ namespace ToggleBowDrawMod
                 {
                     return true;
                 }
-
                 bool hasBowEquipped = __instance.GetInventory().GetEquippedItems().Any(item => item.m_shared.m_itemType == ItemDrop.ItemData.ItemType.Bow);
                 if (!isToggleEnabled || weapon == null || !hasBowEquipped)
                     return true;
-
                 var attackDrawTimeField = AccessTools.Field(typeof(Humanoid), "m_attackDrawTime");
                 var attackHoldField = AccessTools.Field(typeof(Character), "m_attackHold");
                 var semanField = AccessTools.Field(typeof(Character), "m_seman");

@@ -1,7 +1,7 @@
 # Valheim - Toggle Bow Draw Mod
 
 **Mod version:** 1.0.0  
-**Author:** Denizhan Öter  
+**Author:** Denizhan Oter  
 **Compatible with Valheim version:** Ashlands Update 0.218.21
 
 ## Overview
@@ -40,7 +40,7 @@ The **Toggle Bow Draw Mod** for Valheim allows players to toggle the bow draw ac
 2. **Enable/Disable the Mod:** The mod is enabled by default, but you can disable it in the configuration if needed.
 
 ## Mod Settings
-You can configure the mod’s behavior through the in-game configuration settings or manually by editing the configuration file.
+You can configure the modï¿½s behavior through the in-game configuration settings or manually by editing the configuration file.
 
 1. **Toggle Key:**
    - Default: `N`
@@ -52,21 +52,5 @@ You can configure the mod’s behavior through the in-game configuration settings 
 
 
 ## Compatibility
-- This mod is compatible with most Valheim mods, but if any mod modifies the bow's behavior or uses similar methods for drawing the bow, there may be conflicts.
-- Works with BepInEx mod framework.
-
-
-## Known Issues
-- The toggle mode may occasionally desync if you switch weapons rapidly. Press the toggle key again to reset the bow draw state.
-- If you encounter any issues or bugs, please report them on the mod's NexusMods or Thunderstore page.
-
-
-## Changelog
-### v1.0.0
-- Initial release of Toggle Bow Draw Mod.
-- Allows toggling of the bow draw action via a key press.
-- Added stamina and eitr management while drawing the bow.
-
-
-## Support
-If you encounter any problems or have suggestions for improvements, feel free to reach out on the NexusMods or Thunderstore page for this mod. Feedback is always welcome!
+    - This mod is compatible with most Valheim mods, but if any mod modifies the bow's behavior or uses similar methods for drawing the bow, there may be conflicts.
+    - Works with BepInEx mod framework.
